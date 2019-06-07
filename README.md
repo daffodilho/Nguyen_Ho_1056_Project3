@@ -2,9 +2,9 @@
 Website scaffold for TRAA website. The scaffold is based off of the wireframes for the About Us page and Highlights page.
 
 ## Authors
-Nguyen, Thi Hai Ngoc (Megan)
-Ho, Daffodil
+* Nguyen, Thi Hai Ngoc (Megan)
+* Ho, Daffodil
 
 ## Built with
-HTML
-CSS
+* HTML
+* CSS
