@@ -10,7 +10,8 @@ Website scaffold for TRAA website. The scaffold is based off of the wireframes f
 * CSS
 
 ## Typography
-* Type Font: Didiot
+* Type Font: Didot
 * Font size:
-h3: 23px
-p: 18px; 17px - italic; 20px - all capitalised
+* h3: 23px
+* p: 18px; 17px - italic; 20px - capitalised
+
